@@ -156,8 +156,3 @@ docker run --name mysql-db -p 3306:3306 -d \
 ```
 e265d1e7b550e160bde3133d65c06dafbe09e3b19fdad351ec2a93dc8836831f
 ```
-
-<br>
-
-
-
